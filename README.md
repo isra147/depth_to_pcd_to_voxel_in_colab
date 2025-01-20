@@ -8,6 +8,8 @@ If you did not calibrate your camera, you can still use a normal image as an exp
 
 You can change the voxel size under the title 'Downsampling Point Cloud and Voxelization', but it shouldn't be too low or too high.
 
+Please open an issue if you encounter any bugs or have suggestions for improvement.
+
 -------------------
 ## Colab Notebook
 
